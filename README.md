@@ -2,6 +2,8 @@
 
 This project is a simple web application built with React that allows users to upload and view Excel data. It provides functionality to upload an Excel file, parse its contents, and display the data in a table format.
 
+You can access the live demo [here](https://view-excel-data-react.vercel.app/).
+
 ## Features
 
 - Upload Excel files (.xls, .xlsx, .csv).
